@@ -1,0 +1,1 @@
+/Users/groovy/Local_Sites/wpcustomize/app/public/wp-content/plugins/query-monitor/wp-content/db.php
